@@ -1,0 +1,6 @@
+theia@theia-hemanthsaich:/home/project/mcino-Introduction-to-Git-and-GitHub$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+theia@theia-hemanthsaich:/home/project/mcino-Introduction-to-Git-and-GitHub$ git merge bug-fix-typo
+Updating ad95b0a..f092b8c
+Fast-forward
